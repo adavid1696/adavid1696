@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://twitter.com/shcarrasco1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/samuelhcarrasco/"><img width="32px" alt="Linkedin" title="Sam's linkedinpage" src="https://i.imgur.com/OQUXwNp.jpeg"></a>
+  <a href="https://www.linkedin.com/in/anthony-piscocama/"><img width="32px" alt="Linkedin" title="Anthony's linkedinpage" src="https://i.imgur.com/OQUXwNp.jpeg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://medium.com/@samhcarrasco"><img width="32px" alt="medium" title="medium" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/></a>
 
@@ -76,7 +76,7 @@
 <br/>
 
 
-  <a href="https://github.com/samhcarrasco/github-readme-stats"><img alt="Sam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhcarrasco&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/adavid1696/github-readme-stats"><img alt="Anthony's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhcarrasco&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
