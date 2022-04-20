@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/anthony-piscocama/"><img width="32px" alt="Linkedin" title="Anthony's linkedinpage" src="https://i.imgur.com/OQUXwNp.jpeg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@samhcarrasco"><img width="32px" alt="medium" title="medium" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/></a>
+  <a href="https://medium.com/@adamkarnwhite/serverless-monitoring-tool-for-aws-lambda-functions-2b896a56b875"><img width="32px" alt="medium" title="medium" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/></a>
 
 </p>
 
