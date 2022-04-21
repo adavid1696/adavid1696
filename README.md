@@ -1,9 +1,9 @@
 <h2>Hi there, I'm Anthony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arishoham@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ari-shoham)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Happy+to+see+you+here!)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Engineer;Always+learning+new+tech)](https://git.io/typing-svg)
-
 
 <p align="center">
   <a href="https://twitter.com/shcarrasco1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/IJg4kP6.png"/></a>
