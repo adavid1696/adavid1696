@@ -30,9 +30,9 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<br/>
+<!-- <br/>
 
-## 📊 Github stats
+## 📊 Github stats -->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adavid1696)](https://git.io/streak-stats) -->
